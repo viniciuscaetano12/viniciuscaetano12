@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @viniciuscaetano12
-- 👀 I’m interested in  interagir  compartilhando ideias e projetos com amigos da área da tecnolo
-- 🌱 I’m currently learning  programação full stack, com muita alegria e motivação
+- 👀 I’m interested in  interagir  compartilhando ideias e projetos com amigos da área tecnológica                    
 - 📫 Meus contatos:Instagran:@viniciusilva12/Facebook:Vinicius Silva/
      Site:https://app.netlify.com/sites/viniciuscaetanoprogfs/overview
                   
